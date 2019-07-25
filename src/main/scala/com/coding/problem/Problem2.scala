@@ -3,7 +3,7 @@ package com.coding.problem
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * 
+  *
   * This problem was asked by Uber.
   *
   * Given an array of integers, return a new array such that
